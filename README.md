@@ -39,7 +39,7 @@ Check out the live demo: [noobplayer7.vercel.app](https://noobplayer7.vercel.app
 ### Steps:
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/linktree-website.git
+   git clone https://github.com/Vijayendra5/Linktree
     ```
 2. Open index.html in your favorite browser or launch it using a local server.
 
