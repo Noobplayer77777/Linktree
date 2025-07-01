@@ -66,18 +66,7 @@ See the LICENSE file for details.
 
 ---
 
-## 📧 Contact
-Have any questions? Reach out to me:
-Email Me | Follow me on Twitter
-
----
-
 ### ⭐ If you like this project, please star the repository to show your support! ⭐
 
-
-### Steps to Personalize:
-1. Replace placeholders like `your-username`, `your-website-link.com`, and `your-email@example.com` with your actual details.  
-2. Add a screenshot or GIF of your Linktree website to the repository and link it in the `README.md`.  
-3. Customize further to include any unique features or tech stack details.  
 
 Would you like me to assist with creating the `index.html` file or other parts of your Linktree site? 😊
